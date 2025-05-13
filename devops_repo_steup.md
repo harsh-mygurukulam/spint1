@@ -54,7 +54,6 @@ Create the following repositories in your GitHub organization:
 | `terraform-repo`      | Infrastructure-as-Code using Terraform            |
 | `monitoring-repo`     | Configuration for Prometheus, Grafana, and logs   |
 | `ansible`             | Configuration management using Ansible            |
-| `documentation`       | Markdown-based technical documentation            |
 
   **Screenshot: Creating `ci-cd-pipeline` Repository**  
 
