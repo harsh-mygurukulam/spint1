@@ -1,8 +1,15 @@
 
-# 📁 DevOps Repositories Setup Guide
+#   DevOps Repositories Setup Guide
 
 
-## 📑 Table of Contents
+## Author Information
+
+| **Created** | **Version** | **Last Modified** | **Author**            | **Level**         | **Reviewer** |
+|-------------|-------------|-------------------|------------------------|-------------------|--------------|
+| 13-05-2025  | V1          |      | Harsh Wardhan Singh    | Internal review   | Pritam       |
+
+
+##   Table of Contents
 
 - [Introduction](#-introduction)
 - [Pre-requisites](#-pre-requisites)
@@ -18,13 +25,13 @@
 - [References](#-references)
 
 
-## 🧾 Introduction
+##   Introduction
 
 This guide walks you through setting up GitHub repositories to support a structured DevOps workflow. The setup enables code versioning, CI/CD automation, infrastructure-as-code storage, and centralized configuration management.
 
 ---
 
-## 🛠️ Pre-requisites
+##   Pre-requisites
 
 Before starting, ensure:
 
@@ -35,9 +42,9 @@ Before starting, ensure:
 
 ---
 
-## 📚 Step-by-Step Setup Guide
+##   Step-by-Step Setup Guide
 
-### 🔹 1. Create DevOps Repositories
+###   1. Create DevOps Repositories
 
 Create the following repositories in your GitHub organization:
 
@@ -49,18 +56,18 @@ Create the following repositories in your GitHub organization:
 | `ansible`             | Configuration management using Ansible            |
 | `documentation`       | Markdown-based technical documentation            |
 
-📸 **Screenshot: Creating `ci-cd-pipeline` Repository**  
+  **Screenshot: Creating `ci-cd-pipeline` Repository**  
 
 
 ![Screenshot from 2025-05-12 11-28-01](https://github.com/user-attachments/assets/f7b4091b-bc5b-427e-8c2d-f3c4b27cd861)
 
 ---
 
-### 🔹 2. View Created Repositories
+###   2. View Created Repositories
 
 Once all repositories are created, verify them in the GitHub organization dashboard.
 
-📸 **Screenshot: Repositories in Organization**  
+  **Screenshot: Repositories in Organization**  
 
 
 ![Screenshot from 2025-05-12 11-28-52](https://github.com/user-attachments/assets/8b769313-fe24-4e38-bcf6-1bdab9e23ccc)
@@ -68,7 +75,7 @@ Once all repositories are created, verify them in the GitHub organization dashbo
 
 ---
 
-### 🔹 3. Clone and Initialize a Repository
+###   3. Clone and Initialize a Repository
 
 ```bash
 git clone git@github.com:Team-Downtime-Crew/ci-cd-pipeline.git
@@ -81,7 +88,7 @@ git push origin main
 
 ---
 
-### 🔹 4. Setup Branch Protection Rules (Optional)
+###   4. Setup Branch Protection Rules (Optional)
 
 - Navigate to **Settings → Branches**
 - Create a rule to protect the `main` branch
@@ -104,22 +111,22 @@ git push origin main
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 You have successfully set up a clean DevOps repository structure. These repositories will serve as the backbone for your CI/CD, infrastructure provisioning, monitoring, and configuration automation workflows.
 
 ---
 
-## 📞 Contact Information
+##   Contact Information
 
-- **Name:** Harsh Wardhan Singh  
-- **Email:** harshwardhan@example.com  
-- **GitHub:** [Team-Downtime-Crew](https://github.com/Team-Downtime-Crew)
+| Name                | Email Address                          |
+|---------------------|-----------------------------------------|
+| Harsh Wardhan Singh | harsh.singh.snaatak@mygurukulam.co     |
 
 ---
 
-## 🔗 References
+##   References
 
-- [GitHub Docs](https://docs.github.com/en)
-- [Git Best Practices](https://www.atlassian.com/git/tutorials/comparing-workflows)
-- [DevOps Repos Setup](https://learn.microsoft.com/en-us/devops/)
+- | Title            | Description                  | Link                                                                 |
+|------------------|------------------------------|----------------------------------------------------------------------|
+| Git Hub docs   | Official documentation       | [Git Docs](https://docs.github.com/en)                        |
