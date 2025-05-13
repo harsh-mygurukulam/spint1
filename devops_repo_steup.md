@@ -126,6 +126,3 @@ You have successfully set up a clean DevOps repository structure. These reposito
 
 ##   References
 
-- | Title            | Description                  | Link                                                                 |
-|------------------|------------------------------|----------------------------------------------------------------------|
-| Git Hub docs   | Official documentation       | [Git Docs](https://docs.github.com/en)                        |
