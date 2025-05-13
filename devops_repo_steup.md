@@ -95,14 +95,14 @@ git push origin main
 
 ---
 
-### 🔹 5. Set Collaborator Permissions
+###   5. Set Collaborator Permissions
 
 - Go to **Settings → Collaborators**
 - Invite team members and assign appropriate access levels (admin/write/read)
 
 ---
 
-### 🔹 6. Configure Webhooks for CI/CD (Optional)
+###   6. Configure Webhooks for CI/CD (Optional)
 
 - Go to **Settings → Webhooks**
 - Add your Jenkins/GitHub Actions URL
