@@ -11,7 +11,7 @@
 - [Benefits of CI](#benefits-of-ci)
 - [Best Practices for CI](#best-practices-for-ci)
 - [Conclusion](#conclusion)
-- [Contacts](#contacts
+- [Contacts](#contacts)
 - [References](#references)
 
 ---
@@ -94,6 +94,9 @@ Continuous Integration helps teams work together smoothly by automatically testi
 
 ## References
 
-- [Martin Fowler on CI](https://martinfowler.com/articles/continuousIntegration.html)  
-- [Jenkins Documentation](https://www.jenkins.io/doc/)  
-- [GitHub Actions Guide](https://docs.github.com/en/actions)
+
+| Reference                     | Link                                                                 |
+|------------------------------|----------------------------------------------------------------------|
+| **Martin Fowler - CI**       | [Martin Fowler](https://martinfowler.com/articles/continuousIntegration.html) |
+| **Jenkins Documentation**    | [Jenkins CI](https://www.jenkins.io/doc/)                            |
+| **GitHub Actions Guide**     | [GitHub Actions](https://docs.github.com/en/actions)                 |
