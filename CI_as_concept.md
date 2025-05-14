@@ -86,9 +86,9 @@ Continuous Integration helps teams work together smoothly by automatically testi
 
 ## Contacts
 
-- **Name:** Harsh Wardhan Singh  
-- **Email:** harshwardhan@example.com  
-- **GitHub:** [Team-Downtime-Crew](https://github.com/Team-Downtime-Crew)
+| Name                | Email Address                          |
+|---------------------|-----------------------------------------|
+| Harsh Wardhan Singh | harsh.singh.snaatak@mygurukulam.co     |
 
 ---
 
