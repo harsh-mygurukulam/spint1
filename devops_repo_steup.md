@@ -17,9 +17,6 @@
   - [1. Create DevOps Repositories](#-1-create-devops-repositories)
   - [2. View Created Repositories](#-2-view-created-repositories)
   - [3. Clone and Initialize a Repository](#-3-clone-and-initialize-a-repository)
-  - [4. Setup Branch Protection Rules (Optional)](#-4-setup-branch-protection-rules-optional)
-  - [5. Set Collaborator Permissions](#-5-set-collaborator-permissions)
-  - [6. Configure Webhooks for CI/CD (Optional)](#-6-configure-webhooks-for-cicd-optional)
 - [Conclusion](#-conclusion)
 - [Contact Information](#-contact-information)
 - [References](#-references)
@@ -87,28 +84,6 @@ git push origin main
 
 ---
 
-###   4. Setup Branch Protection Rules (Optional)
-
-- Navigate to **Settings → Branches**
-- Create a rule to protect the `main` branch
-- Enable: require pull request review, status checks, and restrict force pushes
-
----
-
-###   5. Set Collaborator Permissions
-
-- Go to **Settings → Collaborators**
-- Invite team members and assign appropriate access levels (admin/write/read)
-
----
-
-###   6. Configure Webhooks for CI/CD (Optional)
-
-- Go to **Settings → Webhooks**
-- Add your Jenkins/GitHub Actions URL
-- Select events like `push` or `pull_request` for triggering automation
-
----
 
 ##  Conclusion
 
@@ -125,4 +100,10 @@ You have successfully set up a clean DevOps repository structure. These reposito
 ---
 
 ##   References
-
+| **Link** | **Description**            |
+|----------|-------------------------------|
+|[GitHub Documentation](https://docs.github.com/)| Comprehensive guide on repository creation and management.|
+|[Terraform Documentation](https://developer.hashicorp.com/terraform/docs) | Detailed reference for infrastructure as code setup using Terraform.|
+|[Ansible Documentation](https://docs.ansible.com/)| Official guide for configuration management with Ansible.|
+| [Prometheus Documentation](https://prometheus.io/docs/) | Resources for monitoring system setup and rules. |
+| [Grafana Documentation](https://grafana.com/docs/) | Insights on creating dashboards and integrating with Prometheus.|
